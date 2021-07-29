@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_kFY4oCHhEeuUat642H8akw" name="MY_SQL_STAR" id="_No6rkCHhEeuUat642H8akw" label="MY_SQL_STAR" dataPackage="_kHmfICHhEeuUat642H8akw" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://127.0.0.1:3306/telecom_star_prod?noDatetimeStringSync=true" dbVersionString="MYSQL_8" Port="3306" Username="root" Password="enc:system.encryption.key.v1:VTJvc1mJao/hw++a87F0Jq8eHjhyYZw7IbL1v4LC8yRqc9msvQ==" ServerName="127.0.0.1" DatasourceName="" FileFieldName="" SID="telecom_star_prod" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_kFY4oSHhEeuUat642H8akw" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_kF1kkCHhEeuUat642H8akw" tag="package filter" value=""/>
+    <taggedValue xmi:id="_kF-ugCHhEeuUat642H8akw" tag="Status" value=""/>
+    <taggedValue xmi:id="_kF-ugSHhEeuUat642H8akw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_kF-ugiHhEeuUat642H8akw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_kF-ugyHhEeuUat642H8akw" tag="Description" value=""/>
+    <taggedValue xmi:id="_kF-uhCHhEeuUat642H8akw" tag="Author" value=""/>
+    <taggedValue xmi:id="_kF-uhSHhEeuUat642H8akw" tag="otherParameter"/>
+    <taggedValue xmi:id="_kGpc4CHhEeuUat642H8akw" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_kGpc4SHhEeuUat642H8akw" tag="DB ProductVersion" value="8.0.22"/>
+    <taggedValue xmi:id="_kGpc4iHhEeuUat642H8akw" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_kFY4oiHhEeuUat642H8akw" key="CONN_PARA_KEY_USERNAME" value="root"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_kHmfICHhEeuUat642H8akw" name="telecom_star_prod" dataManager="_kFY4oCHhEeuUat642H8akw"/>
+</xmi:XMI>

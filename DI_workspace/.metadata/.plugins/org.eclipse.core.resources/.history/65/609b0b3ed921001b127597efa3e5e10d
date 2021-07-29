@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_PeTZgiHZEeuoy-spdF7wHQ" id="_jedKkCHYEeuoy-spdF7wHQ" label="My_SQL_StagingDB" version="0.1" statusCode="" item="_PeTZhCHZEeuoy-spdF7wHQ" displayName="My_SQL_StagingDB">
+    <author href="../../talend.project#_8SYMoSHXEeuoy-spdF7wHQ"/>
+    <additionalProperties xmi:id="_PeTZhSHZEeuoy-spdF7wHQ" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_PeTZhiHZEeuoy-spdF7wHQ" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_PeTZhyHZEeuoy-spdF7wHQ" key="created_date" value="2020-11-08T16:44:09.496+0100"/>
+    <additionalProperties xmi:id="_PeTZiCHZEeuoy-spdF7wHQ" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_PeTZiSHZEeuoy-spdF7wHQ" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_PeTZiiHZEeuoy-spdF7wHQ" key="modified_date" value="2020-11-08T16:44:09.496+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_PeTZgyHZEeuoy-spdF7wHQ" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_PeTZhCHZEeuoy-spdF7wHQ" property="_PeTZgiHZEeuoy-spdF7wHQ" state="_PeTZgyHZEeuoy-spdF7wHQ" typeName="MySQL">
+    <connection href="My_SQL_StagingDB_0.1.item#_PeJogCHZEeuoy-spdF7wHQ"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

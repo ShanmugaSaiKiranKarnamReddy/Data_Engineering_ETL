@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_PeJogCHZEeuoy-spdF7wHQ" name="My_SQL_StagingDB" id="_jedKkCHYEeuoy-spdF7wHQ" label="My_SQL_StagingDB" dataPackage="_PgubYCHZEeuoy-spdF7wHQ" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://127.0.0.1:3306/telecom_staging?noDatetimeStringSync=true" dbVersionString="MYSQL_8" Port="3306" Username="root" Password="enc:system.encryption.key.v1:bRPSHiWVAnP9GxEliJnzmQWtnxLusV0yk0mO94JVVQfTOP/WwA==" ServerName="127.0.0.1" DatasourceName="" FileFieldName="" SID="telecom_staging" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_PeTZgCHZEeuoy-spdF7wHQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_PfaMwCHZEeuoy-spdF7wHQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_Pfj9wCHZEeuoy-spdF7wHQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_Pfj9wSHZEeuoy-spdF7wHQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_Pfj9wiHZEeuoy-spdF7wHQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_Pfj9wyHZEeuoy-spdF7wHQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_Pfj9xCHZEeuoy-spdF7wHQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_Pfj9xSHZEeuoy-spdF7wHQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_PgX2ECHZEeuoy-spdF7wHQ" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_PgX2ESHZEeuoy-spdF7wHQ" tag="DB ProductVersion" value="8.0.22"/>
+    <taggedValue xmi:id="_PgX2EiHZEeuoy-spdF7wHQ" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_PeTZgSHZEeuoy-spdF7wHQ" key="CONN_PARA_KEY_USERNAME" value="root"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_PgubYCHZEeuoy-spdF7wHQ" name="telecom_staging" dataManager="_PeJogCHZEeuoy-spdF7wHQ"/>
+</xmi:XMI>
